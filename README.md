@@ -25,7 +25,7 @@ The steps are as follows
 
 - Your salary per month will be based on your employer and your skill level etc. But you can compare some average salaries in http://www.lonestatistik.se/. If you are paid below average the opnion from the union may be nagative. Also you can compare cost of living here to get an idea https://www.numbeo.com/cost-of-living/comparison.jsp
  
-- You may not be able to get before you come to Sweden. It may not be possible to get them right after you start as well since you will not have the person number from day 1. But after you come to Sweden and start your job you have 3 months (You can perhaps have that as a part of your contract as well that provided Skattaverket issues you are person number you will be enrolled in all insurances that are promised in offer of employment)
+- In 99% of the cases you will not be able to get insurances you come to Sweden and have your person number. Your employer promises that you will get an insurance when you start in the offer of employment. After you come to Sweden and start your job you have 3 months for your company to fix insurances. It is your responsibility to check that all those insurances are in place. You can perhaps have that as a part of your contract as well that when Skattaverket issues you are person number you will be enrolled in all insurances that are promised in offer of employment. [To clarify that if one does not have person number, does he/she have to be insured, which insurance companies offer plans for people without Swedish person numbers)
 
 - You should get your occupational pension which is 4.5% of your base monthly salary. Make sure that it is paid from the first day you work. This is the middle part of the pension pyramid http://www.spv.se/en/About-your-pensions/How-pensions-work/. Don't agree to loan exchange or any undeclared policy about occupational pension. It should be crystal clear in your contract what kind of pension you will get. If it is a plan like ITP then you can check the terms of that on ITP website.
 
@@ -48,3 +48,5 @@ The steps are as follows
 - You should join a Union and A-kassa. Look them up what they are.
 
 - Make sure that when you are switching company or the occupation, the job is advertised and you follow the same procedures as before about insurances and salaries
+
+- Don't go on lengthy vacations to your home country. If are away for more than 6 weeks in a year it will affect your citizenship application. And no matter what you do, don't go on an unpaid leave. If you need to do so then it is better to resign and stop your workpermit and then apply again.
