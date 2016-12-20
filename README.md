@@ -1,5 +1,5 @@
 ## First things first ##
-- This document is meant for people working in IT, Engineering (since author(s) primarily have experience of how it is for other occupations) 
+- This document is primarily meant for people working in IT and Engineering occupations. This is because the author(s) only have first hand experience for these occupations) 
 - This document assumes that readers are educated and can make some informed decisions by them selves.
 - This document is a guide and not a recipie or formula to get your work permit. It is your legal obligation to follow the rules that apply to you. Not knowing the rules is not an excuse.
 - The advice in this document may be old, it is your responsibility to make sure that it is valid and applicaple to you.
