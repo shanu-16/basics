@@ -18,7 +18,7 @@ The steps are as follows
  
 - The job has to be advertised in https://www.arbetsformedlingen.se/. It should be a fairly recent advertisment. Make sure that your occupation title and duties match this advertisement. This ad will also show up in other EU countries. The Ads go away after a while so make sure it is recent so you can check it your self (and take a screenshot/copy) just in case. The Ad has to be there for 10 days (to be safe call it 10 working days).
 
-- If the employer is part of a Swedish collective agreement then you don't have to demand any thing extra, but if they are not then you MUST ask them to provide you with all insurances required for your work permit from day 1. Does not matter if you are probation or company. This should be part of your contract. If company say that they will follow some policy then you say that they have to be explicit in your contract. Don't budge on this.
+- If the employer is part of a Swedish collective agreement then you don't have to demand any thing extra, but if they are not then you MUST ask them to provide you with all insurances required for your work permit from day 1. Does not matter if you are probation or company does not have policy. No insurances, no deal. This should be part of your contract. If company say that they will follow some policy then you say that they have to be explicit in your contract. Don't budge on this.
 
 - Your salary per month will be based on your employer and your skill level etc. But you can compare some average salaries in http://www.lonestatistik.se/. 
  
