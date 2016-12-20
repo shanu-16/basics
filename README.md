@@ -34,7 +34,7 @@ The steps are as follows
 
 - Once you have the work permit documents then you can file for your part of the application.
 
-After the permit is approved
+## After the permit is approved
 
 - For first two years you have to work in the same occupation with the same company. Your company is the one that will show up as the one paying you in KU10 form.
 
@@ -43,5 +43,9 @@ After the permit is approved
 - You will also need other documentation to support that you had insurances paid every month and your occupation was the same
  
 - You should join a Union and A-kassa. Look them up what they are.
+
+- Make sure that when you are switching company or the occupation, the job is advertised and you follow the same procedures as before about insurances and salaries.
+
+
  
  
