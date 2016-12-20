@@ -2,7 +2,7 @@
 - This document is primarily meant for people working in IT and Engineering occupations. This is because the author(s) only have the firsthand experience for these occupations) 
 - This document assumes that readers are educated and can make some informed decisions by themselves.
 - This document is a guide and not a recipe or formula to get your work permit. It is your legal obligation to follow the rules that apply to you. Not knowing the rules is not an excuse.
-- The advice in this document may be old, it is your responsibility to make sure that it is valid and applicable to you.
+- The advice in this document may be old, outdated and incorrect. It is your responsibility to make sure that it is valid and applicable to you. If you are confused or have questions then talk to Migrationsverket your self.
 - If contents of this document are misleading then please file an Issue.
 - Please note that any views or opinions presented in this document are solely those of the author(s) and do not necessarily represent those of any company/organization.
 
@@ -12,7 +12,10 @@ You can find out about the process for work permit here http://www.migrationsver
 The steps are as follows
 - You are about to get a job offer from a Swedish employer and you are a non-EU citizen. The first thing you should ask your employer is if they have hired people from outside of EU. (You don't need to ask this if it is obvious that they have). If they have not then you should ask them if they know about the process of work permit is. You will be surprised how many employer don't know much about hiring from outside of EU. They assume you can just start working.
 
-- You should ask that you are given an official Migrationsveket offer of employment. Someone from your future company's HR  can create an offer of employment (using the Migrationsverket website and their personal Mobile bank id so they can digitally sign the offer). They can  and also get opinion from the union
+- You should ask that you are given an official Migrationsveket offer of employment. Someone from your future company's HR  can create an offer of employment (using the Migrationsverket website and their personal Mobile bank id so they can digitally sign the offer). They can  and also get opinion from the union. Without these two you can not even begin the process. You can know more about offer of employment here http://www.migrationsverket.se/English/Other-operators-English/Employers/Employing-people-from-non-EU-countries-/If-the-person-will-apply-for-a-work-permit.html
+
+
+- Your employer should know that there is no guarantee that your work permit will be approved before a certain time. So start dates are meaningless. A lot depends upon your employer (they could hire a relocation company to make the process more predictable).
  
 - It would be easier if your company hires a relocation company (since they are experts at creating job offers and other things involved). Usually, it saves the employer quite some work. It is always the employer who pays for hiring relocation company.  The relocation company (if you trust them) can also have your power of attorney and file your part of the application as well. It seems that using relocation company can lead to faster results. Some large companies are certified themselves and don't need relocation companies.(they must be doing 20+ applications in a year to do so)
  
@@ -20,15 +23,13 @@ The steps are as follows
 
 - If the employer is part of a Swedish collective agreement then you don't have to demand anything extra. But if they are not then you MUST ask them to provide you with all insurances required for your work permit from day 1. Does not matter if you are probation or company does not have any policy for its employees. No insurances, no deal. This should be part of your contract. If the company says that they "follow a company policy" in their contract then it can mislead people. You have the right to ask them for explicit documentation and proof before hand. Remind them that it is a REQUIREMENT for your work permit application. Don't budge on this. If they can not accommodate you and are unclear about insurances then they are not fit to hire from outside of EU.
 
-- Your salary per month will be based on your employer and your skill level etc. But you can compare some average salaries in http://www.lonestatistik.se/. 
+- Your salary per month will be based on your employer and your skill level etc. But you can compare some average salaries in http://www.lonestatistik.se/. If you are paid below average the opnion from the union may be nagative. Also you can compare cost of living here to get an idea https://www.numbeo.com/cost-of-living/comparison.jsp
  
 - You may not be able to get before you come to Sweden. It may not be possible to get them right after you start as well since you will not have the person number from day 1. But after you come to Sweden and start your job you have 3 months (You can perhaps have that as a part of your contract as well that provided Skattaverket issues you are person number you will be enrolled in all insurances that are promised in offer of employment)
 
 - You should get your occupational pension which is 4.5% of your base monthly salary. Make sure that it is paid from the first day you work. This is the middle part of the pension pyramid http://www.spv.se/en/About-your-pensions/How-pensions-work/. Don't agree to loan exchange or any undeclared policy about occupational pension. It should be crystal clear in your contract what kind of pension you will get. If it is a plan like ITP then you can check the terms of that on ITP website.
 
 - You should also clarify to your employer that any terms of employment have to be notified in written. This includes a change in salary, change in occupation etc. Failure to do so may result in problems for you.
-
-- Your employer should know that there is no guarantee that your work permit will be approved before a certain time. A lot depends upon your employer (they could hire a relocation company to make the process more predictable).
 
 - You should in your contract specify that upon your request while you are employed or up to 4 years the company is obligated to provide you letters to help you secure further work permit extension (free of any charge) to certify that you worked for them in XYZ occupation and information about your salaries, pensions, and insurances. This letter will be used for your Migrationsverket procedures.
 
